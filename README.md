@@ -1,4 +1,4 @@
-- Hi, I’m @ProbitJK, also known as Probit Jyoti Kalita
+- Hi, I’m Probit Jyoti Kalita
 - I’m interested in Physics (high-energy physics and computational physics) and a bit of coding (python and C++)
 - I’m currently learning Python, C++, LaTeX
 - You can contact me through email at probit1997@gmail.com
