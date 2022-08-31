@@ -1,7 +1,6 @@
-- Hi, I’m Probit Jyoti Kalita
-- I’m interested in Physics (high-energy physics and computational physics) and a bit of coding (python and C++)
-- I’m currently learning Python, C++, LaTeX
-- You can contact me through email at probit1997@gmail.com
+Hey there! I am Probit Jyoti Kalita, currently pursuing my PhD in Physics, with my area of interest being Neutron Stars.
+I work mostly with Python and LaTeX, and I have had some experience with C/C++.
+You can contact me via email at <probit1997@gmail.com>
 
 <!---
 PJ1612JK/PJ1612JK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
