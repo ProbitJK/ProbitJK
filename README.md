@@ -1,7 +1,8 @@
-Hey there! I am Probit Jyoti Kalita, currently pursuing my PhD in Physics, with my area of interest being Neutron Stars.
-I work mostly with Python and LaTeX, and I have had some experience with C/C++.
-You can contact me via email at <ProbitJKalita@proton.me>
+Pursuing a PhD in nuclear astrophysics, while attempting to decipher the composition of Neutron Stars and behaviour of cold dense matter.
+Not a programmer, but most of my research is based on writing and utilizing Python/C/C++/Fortran.
+Not proficient, but know my way around Linux, git and LaTeX, and am familiar with most of the commonly used GNU coreutils.
 
+Feel free to reach out to me at <ProbitJKalita@proton.me>
 <!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProbitJK&&show_icons=true&theme=tokyonight&line_height=27&v=5" /> 
