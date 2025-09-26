@@ -1,6 +1,8 @@
 Pursuing a PhD in nuclear astrophysics, while attempting to decipher the composition of Neutron Stars and behaviour of cold dense matter.
+
 Not a programmer, but most of my research is based on writing and utilizing Python/C/C++/Fortran.
-Not proficient, but know my way around Linux, git and LaTeX, and am familiar with most of the commonly used GNU coreutils.
+
+Know the basics on how to use Linux, git and LaTeX, and am familiar with most of the commonly used GNU coreutils.
 
 Feel free to reach out to me at <ProbitJKalita@proton.me>
 <!---
